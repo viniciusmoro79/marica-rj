@@ -370,7 +370,7 @@ VI - a convocação do aprovado em concurso far-se-á mediante publicação ofic
 
 ~~VII - a classificação em concurso público, dentro do número de vagas obrigatoriamente fixado no respectivo edital, assegura o provimento no cargo no prazo máximo de 180 (cento e oitenta) dias, contados da homologação do resultado;~~
 
-VII - Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 31, de 2007)](/legislatura-2005-2008/2007/lei-organica/ELO-00031-2007)
+VII - Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 31, de 2007)](/legislatura-2005-2008/2007/lei-organica/ELO-00031-2007.md)
 
 VIII - os cargos em comissão e as funções de confiança serão exercidos, preferencialmente por servidores ocupantes de cargo de carreira técnica profissional, nos casos e condições previstos em lei;
 
