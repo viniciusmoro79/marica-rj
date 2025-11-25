@@ -361,34 +361,65 @@ I - os cargos, empregos e funções públicas são acessíveis aos brasileiros q
 II - a investidura em cargo ou emprego público da administração direta, indireta ou fundacional depende de aprovação prévia em concurso de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração;
 
 III - não haverá limite máximo de idade para inscrição no concurso público, constituindo-se, entretanto, em requisito de acessibilidade ao cargo ou emprego a possibilidade de permanência por cinco anos em seu efetivo exercício;
+
 IV - o prazo de validade do concurso público será de dois anos, prorrogável uma vez por igual período;
+
 V - tanto no prazo de validade quanto no de sua prorrogação previsto no edital de convocação, o aprovado em concurso público de provas ou de provas e títulos, será observada a classificação, convocado com prioridade sobre novos concursados para assumir cargo ou emprego na carreira;
+
 VI - a convocação do aprovado em concurso far-se-á mediante publicação oficial, e por correspondência pessoal;
-VII - a classificação em concurso público, dentro do número de vagas obrigatoriamente fixado no respectivo edital, assegura o provimento no cargo no prazo máximo de 180 (cento e oitenta) dias, contados da homologação do resultado;
+
+~~VII - a classificação em concurso público, dentro do número de vagas obrigatoriamente fixado no respectivo edital, assegura o provimento no cargo no prazo máximo de 180 (cento e oitenta) dias, contados da homologação do resultado;~~
+
+VII - Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 31, de 2007)](/legislatura-2005-2008/2007/lei-organica/ELO-00031-2007)
+
 VIII - os cargos em comissão e as funções de confiança serão exercidos, preferencialmente por servidores ocupantes de cargo de carreira técnica profissional, nos casos e condições previstos em lei;
+
 IX - os cargos de natureza técnica só poderão ser ocupados por profissionais legalmente habilitados e de comprovada atuação na área;
+
 X - a administração fazendária e seus servidores fiscais terão, em suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei;
+
 XI - a lei estabelecerá os casos de contratação por tempo determinado, para atender à necessidade temporária de excepcional interesse público;
+
 XII - a revisão geral da remuneração dos funcionários públicos, far-se-á sempre na mesma data e com os mesmos índices, para todas as carreiras do serviço público;
+
 XIII - a lei fixará o limite máximo e a relação de valores entre a maior e a menor remuneração dos funcionários públicos, observados, como limite máximo e no âmbito dos respectivos poderes, os valores percebidos como remuneração, em espécie, pelo Prefeito;
+
 XIV - os vencimentos do cargos do Poder Legislativo não poderão ser superiores aos pagos pelo Poder Executivo;
+
 XV - é vedada a vinculação ou equiparação de vencimento, para o efeito de remuneração de pessoal do serviço público, ressalvado o disposto no inciso anterior e no art. 59,§ 1º, desta Lei Orgânica;
+
 XVI - os acréscimos pecuniários percebidos pelo funcionário público não serão computados nem acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento;
+
 XVII - o funcionário público poderá gozar licença especial e férias na forma da Lei ou de ambas dispor, sob a forma de direito de contagem em dobro, para efeito de aposentadoria; **(Nova Redação dada pela Emenda nº 013, de 26.09.97)**
+
 XVIII - os vencimentos dos funcionários públicos são irredutíveis e a remuneração observará o que dispõe os incisos XIII e XIV deste artigo;
+
 XIX - é vedada a acumulação remunerada de cargos públicos, exceto quando houver compatibilidade de horário;
+
 a) a de dois cargos de professor, assim considerado o de especialista de educação;
+
 b) a de um cargo de professor por um outro técnico ou científico;
+
 c) a de dois cargos privativos de médicos;
+
 XX - a proibição de acumular não se aplica a proventos de aposentadoria, mas se estende a empresas públicas, sociedades de economia mista e fundações mantidas pelo Poder Público;
+
 XXI - somente por leis específicas poderão ser criadas empresas públicas, sociedades de economia mista, autarquia ou fundação pública;
+
 XXII - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;
+
 XXIII - ressalvada a legislação aplicável, ao funcionário público é proibido substituir, sob qualquer pretexto, trabalhadores de empresas privadas em greve;
+
 XXIV - aos funcionários públicos do Município é vedado serem proprietários, controlarem direta ou indiretamente ou fazerem parte da administração de empresas privadas fornecedoras de suas instituições ou que delas dependam para controle ou credenciamento e, na forma da lei:
+
 a) as vedações deste inciso estender-se-ão aos parentes diretos, consangüíneos ou afins, assim como aos seus prepostos;
+
 b) as punições específicas aos transgressores desta norma serão impostas sem prejuízo das sanções genéricas que lhes sejam aplicáveis;
+
 XXV - ressalvados os casos específicos na legislação, as obras, serviços, compra e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições e de pagamento a todos os concorrentes, com previsão de atualização monetária para os pagamentos em atraso, penalidades para os descumprimento contratuais, permitindo-se no ato convocatório, somente as exigências de qualificação técnica, jurídica e econômico-financeira indispensáveis à garantia do cumprimento das obrigações;
+
 XXVI - os funcionários públicos só poderão ser colocados à disposição de outros setores da administração pública da União, dos Estados e dos outros Municípios, depois de completarem dois anos de efetivo exercício funcional no órgão de origem, hipótese na qual não receberão remuneração do município;
+
 XXVII - os funcionários da administração pública direta, colocados à disposição da administração pública indireta ou fundacional, quando da transferência para a inatividade, incorporação aos proventos a complementação de vencimento que venham percebendo, desde que caracterizada essa situação há, no mínimo, oito anos consecutivos.
 
 **§ 1º** Compreende-se na administração direta os serviços sem personalidade jurídica própria integrados na estrutura administrativa de qualquer dos Poderes do Município; na administração indireta constituída de entidades dotadas de personalidade jurídica própria, as autarquias, as empresas públicas e as sociedades de economia mista, bem como as subsidiárias dessas entidades, incluindo as fundações instituídas ou mantidas pelo Poder Público.
@@ -549,26 +580,56 @@ d) aos sessenta e cinco anos de idade, se homem e aos sessenta, se mulher, com p
 **Art. 68.** São condições de elegibilidade para o exercício do mandato de Vereador, na forma da Lei federal:
 
 I - a nacionalidade brasileira;
+
 II - o pleno exercício dos direitos públicos;
+
 III - o domicílio eleitoral na circunscrição;
+
 IV - a filiação partidária;
+
 V - o alistamento eleitoral;
+
 VI - a idade mínima de 18 (dezoito) anos;
+
 VII - ser alfabetizado.
 
-**§ 1º** Observados os limites estabelecidos no artigo 29, IV da Constituição Federal e guardada proporção com a população do município, o número de Vereadores para cada legislatura, será o seguinte:
+~~**§ 1º** Observados os limites estabelecidos no artigo 29, IV da Constituição Federal e guardada proporção com a população do município, o número de Vereadores para cada legislatura, será o seguinte:~~
 
-a) nove Vereadores até dez mil habitantes;
-b) onze Vereadores de dez mil e um a quinze mil habitantes;
-c) treze Vereadores de quinze mil e um a vinte e cinco mil habitantes;
-d) quinze vereadores de vinte e cinco mil e um a quarenta mil habitantes;
-e) dezessete Vereadores de quarenta mil e um a oitenta mil habitantes;
-f) dezenove vereadores de oitenta mil e um a cento e trinta mil habitantes;
-g) vinte e um Vereadores de cento e trinta mil e um a hum milhão de habitantes.
+~~a) nove Vereadores até dez mil habitantes;~~
+
+~~b) onze Vereadores de dez mil e um a quinze mil habitantes;~~
+
+~~c) treze Vereadores de quinze mil e um a vinte e cinco mil habitantes;~~
+
+~~d) quinze vereadores de vinte e cinco mil e um a quarenta mil habitantes;~~
+
+~~e) dezessete Vereadores de quarenta mil e um a oitenta mil habitantes;~~
+
+~~f) dezenove vereadores de oitenta mil e um a cento e trinta mil habitantes;~~
+
+~~g) vinte e um Vereadores de cento e trinta mil e um a hum milhão de habitantes.~~
+
+**§ 1º** Observados os limites estabelecidos no art. 29, IV, a, da Constituição Federal e guardada proporção com a população do município, o número de Vereadores para cada legislatura, será o seguinte: [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+a) 10 (dez) Vereadores, de 47.620 (quarenta e sete mil, seiscentos e vinte) habitantes até 95.238 (noventa e cinco mil, duzentos e trinta e oito) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+b) 11 (onze) Vereadores, de 95.239 (noventa e cinco mil, duzentos e trinta e nove) habitantes até 142.857 (cento e quarenta e dois mil, oitocentos e cinqüenta e sete) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+c) 12 (doze) Vereadores, de 142.858 (cento e quarenta e dois mil, oitocentos e cinqüenta e oito) habitantes até 190.476 (cento e noventa mil, quatrocentos e setenta e seis) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+d) 13 (treze) Vereadores, de 190.477 (cento e noventa mil, quatrocentos e setenta e sete) habitantes até 238.095 (duzentos e trinta e oito mil e noventa e cinco) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+e) 14 (quatorze) Vereadores, de 238.096 (duzentos e trinta e oito mil e noventa e seis) habitantes até 285.714 (duzentos e oitenta e cinco mil, setecentos e quatorze) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+f) 15 (quinze) Vereadores, de 285.715 (duzentos e oitenta e cinco mil, setecentos e quinze) habitantes até 333.333 (trezentos e trinta e três mil, trezentos e trinta e três) habitantes; [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
+
+g) 16 (dezesseis) Vereadores, de 333.334 (trezentos e trinta e três mil, trezentos e trinta e quatro) habitantes até 380.952 (trezentos e oitenta mil, novecentos e cinqüenta e dois) habitantes. [(Redação dada pela Emenda à Lei Orgânica nº nº 33, de 2008.)](/legislatura-2005-2008/2008/lei-organica/ELO-00033-2008.md)
 
 **§ 2º** A população do Município, para fins a que se refere o parágrafo anterior, será aquela existente a 31 de dezembro do ano anterior ao das eleições, apurada pelo órgão federal competente.
 
-**Art. 69.** A Câmara Municipal reunir-se-á, anual e ordinariamente, na sede do Município, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
+~~**Art. 69.** A Câmara Municipal reunir-se-á, anual e ordinariamente, na sede do Município, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.~~
+
+**Art. 69.** A Câmara Municipal reunir-se-á, anualmente e ordinariamente, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro, na sede do Município ou, também, conforme o Regimento Interno dispuser. [(Redação dada pela Emenda à Lei Orgânica nº 22, de 2000)](/legislatura-1997-2000/2000/lei-organica/ELO-00022-2000.md)
 
 **§ 1º** As reuniões inaugurais de cada sessão legislativa, marcada para as datas que lhes correspondem, previstas no presente artigo serão transferidas para o primeiro dia útil subsequente, quando coincidirem com sábados, domingos e feriados.
 
@@ -577,8 +638,11 @@ g) vinte e um Vereadores de cento e trinta mil e um a hum milhão de habitantes.
 **§ 3º** A convocação extraordinária da Câmara far-se-á:
 
 I - pelo Prefeito, quando este a entender necessária;
+
 II - pelo Presidente da Câmara para o compromisso e a posse do prefeito, do Vice-Prefeito e Vereadores;
+
 III - pelo Presidente da Câmara ou a requerimento da maioria dos membros desta, em caso de urgência ou interesse público relevante;
+
 IV - pela Comissão Representativa da Câmara, conforme previsto no art. 79, V desta Lei Orgânica
 
 **§ 4º** Na sessão legislativa extraordinária, a Câmara Municipal somente deliberará sobre a matéria para a qual foi convocada.
@@ -610,21 +674,37 @@ IV - pela Comissão Representativa da Câmara, conforme previsto no art. 79, V d
 **Art. 74.** Cabe a Câmara Municipal, com a sanção do Prefeito, não exigida esta para o especificado no art. 75, dispor sobre todas as matérias de competência do Município, especialmente sobre:
 
 I - tributos municipais, arrecadação, distribuição e aplicação de rendas;
+
 II - isenção e anistia em matéria tributária, bem como remissão de dívidas;
+
 III - orçamento anual, plano plurianual e autorização para abertura de créditos suplementares especiais;
+
 IV - operações de créditos, auxílio e subvenções;
+
 V - concessão, permissão e autorização de serviços públicos;
+
 VI - concessão administrativa de uso dos bens municipais;
+
 VII - alienação de bens públicos;
+
 VIII - aquisição de bens imóveis, salvo quando se tratar de adoção sem encargos;
+
 IX - organização administrativa municipal, criação, transformação e extinção de cargos, empregos ou funções públicas, bem como a fixação dos respectivos vencimentos;
+
 X - criação e estruturação de Secretarias Municipais e entidades da administração pública indireta, bem assim a definição das respectivas atribuições;
+
 XI - aprovação do plano diretor e demais planos e programas de governo;
+
 XII - delimitação do perímetro urbano;
+
 XIII - transferência temporária da sede do governo municipal;
+
 XIV - autorização para mudança de denominação de próprios, vias e logradouros públicos;
+
 XV - normas urbanísticas, particularmente as relativas a zoneamento e loteamento;
+
 XVI - normas gerais sobre a exploração, mediante concessão, permissão ou autorização, de serviços públicos, bem como encampação e reversão destes, ou a expropriação dos bens de empresas concessionárias ou permissionárias, autorizar cada um dos atos de retomada ou intervenção;
+
 XVII - autorização para assinatura de qualquer natureza com outros municípios ou com entidades públicas ou privadas;
 
 **Art. 75.** É da competência exclusiva da Câmara Municipal:
@@ -808,19 +888,31 @@ III - para desempenhar missões temporárias de caráter cultural ou de interess
 
 **Art. 92.** A Câmara reunir-se-á em sessões preparatórias, a partir de 1º de janeiro do primeiro ano da legislatura, para a posse de seus membros e eleição da mesa.
 
-**§ 1º** A posse ocorrerá em sessão solene, que se realizará independentemente de número, sob a Presidência do Vereador mais idoso dentre os presentes, e os eleitos prestarão compromisso de posse mios seguintes termos: "PROMETO CUMPRIR DIGNAMENTE O MANDATO A MIM CONFIADO, GUARDAR A CONSTITUIÇÃO FEDERAL, A CONSTITUIÇÃO ESTADUAL E A LEI ORGÂNICA DO MUNICÍPIO, BEM COMO AS DEMAIS LEIS, TRABALHANDO PELO ENGRANDECIMENTO DO MUNICÍPIO DE MARICÁ".
+~~**§ 1º** A posse ocorrerá em sessão solene, que se realizará independentemente de número, sob a Presidência do Vereador mais idoso dentre os presentes, e os eleitos prestarão compromisso de posse mios seguintes termos:~~
+
+~~"PROMETO CUMPRIR DIGNAMENTE O MANDATO A MIM CONFIADO, GUARDAR A CONSTITUIÇÃO FEDERAL, A CONSTITUIÇÃO ESTADUAL E A LEI ORGÂNICA DO MUNICÍPIO, BEM COMO AS DEMAIS LEIS, TRABALHANDO PELO ENGRANDECIMENTO DO MUNICÍPIO DE MARICÁ".~~
+
+**§ 1º** A posse ocorrerá em sessão solene, que se realizará independentemente de número, sob a direção do último Presidente reeleito a Vereador e, na sua falta, o Vereador mais idoso dentre os presentes e os eleitos prestarão compromisso de posse nos seguintes termos:
+
+"PROMETO CUMPRIR A CONSTITUIÇÃO DA REPÚBLICA, A CONSTITUIÇÃO DO ESTADO DO RIO DE JANEIRO, A LEI ORGÂNICA DO MUNICÍPIO DE MARICÁ E O REGIMENTO INTERNO DA CÂMARA MUNICIPAL, OBSERVAR AS LEIS, DESEMPENHAR COM LEALDADE O MANDATO QUE ME FOI CONFIADO E TRABALHAR PELO PROGRESSO DO MUNICÍPIO E BEM-ESTAR DO SEU POVO." [(Redação dada pela Emenda à Lei Orgânica nº 22, de 2000)](/legislatura-1997-2000/2000/lei-organica/ELO-00022-2000.md)
 
 **§ 2º** O Vereador que não tomar posse na sessão prevista no parágrafo anterior, deverá fazê-lo dentro do prazo de quinze dias do início do funcionamento ordinário da Câmara, sob pena de perda de mandato, salvo motivo justo, aceito pela maioria absoluta dos membros da Câmara.
 
 **§ 3º** No ato da posse, o Vereador desincompatibilizar-se-á, se for o caso, na mesma ocasião, e, ao término do mandato, deverá fazer declaração de seus bens e de seus dependentes, constando em ata o seu resumo.
 
-**§ 4º** Imediatamente após a posse, os Vereadores reunir-se-ão sob a Presidência do mais idoso dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, por escrutínio secreto e maioria simples de voto, considerando-se automaticamente empossados os eleitos, sendo que no caso de empate será eleito o mais votado na eleição popular.
+~~**§ 4º** Imediatamente após a posse, os Vereadores reunir-se-ão sob a Presidência do mais idoso dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, por escrutínio secreto e maioria simples de voto, considerando-se automaticamente empossados os eleitos, sendo que no caso de empate será eleito o mais votado na eleição popular.~~
+
+**§ 4º** Imediatamente após a posse, os Vereadores reunir-se-ão sob a Presidência do Vereador, conforme o parágrafo 1º deste artigo e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa Diretora, por escrutínio secreto e maioria simples dos votos, considerando-se automaticamente empossados os eleitos, sen do que, no caso de empate, será eleito o mais votado na eleição popular. [(Redação dada pela Emenda à Lei Orgânica nº 22, de 2000)](/legislatura-1997-2000/2000/lei-organica/ELO-00022-2000.md)
 
 **§ 5º** Inexistindo número legal, o Vereador mais idoso dentre os presentes permanecerá na presidência e convocará sessões diárias, até que seja eleita a Mesa.
 
 **§ 6º** A eleição da Mesa, para o segundo biênio de cada legislatura far-se-á na última sessão do primeiro biênio, e os eleitos tomarão posse no primeiro dia útil do biênio seguinte. [(Inluído pela Emenda nº 36, de 06.04.2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00036-2010.md)
 
-**Art. 93.** O mandato da Mesa será de dois anos, facultada a recondução por mais um período, para o mesmo cargo, na eleição imediatamente subsequente.*
+~~**Art. 93.** O mandato da Mesa será de dois anos, facultada a recondução por mais um período, para o mesmo cargo, na eleição imediatamente subsequente.~~
+
+~~**Art. 93.** O Mandato da Mesa Diretora da Câmara Municipal de Maricá será de 02 (dois) anos, permitidas reconduções para os mesmos cargos nas eleições subseqüentes. [(Redação dada pela Emenda à Lei Orgânica nº 34, de 2008)](/legislatura-2001-2004/2004/lei-organica/ELO-00027-2004.md)~~ 
+
+**Art. 93.** O Mandato da Mesa Diretora da Câmara Municipal de Maricá será de 02 (dois) anos, permitidas as reconduções para os mesmos cargos nas eleições subseqüentes. [(Redação dada pela Emenda à Lei Orgânica nº 34, de 2008)](/legislatura-2005-2008/2008/lei-organica/ELO-00034-2008.md)
 
 **Parágrafo Único.** A recondução de que trata o caput deste artigo independe da Legislatura, não podendo ultrapassar a dois períodos consecutivos. (**Nova Redação dada pela Emenda nº 014, de 02.07.98**)
 
@@ -2103,7 +2195,9 @@ b) o transporte de pessoas em passeios ou excursões turísticas, dentro do terr
 
 **Art. 274.** A exploração dos serviços de transporte coletivo far-se-á por concessão a empresas particulares, devidamente registradas no órgãos competentes do Município.
 
-**§ 1º** O prazo de validade da concessão é de 5 (cinco) anos, sucessivamente renovável por igual período de tempo.
+~~**§ 1º** O prazo de validade da concessão é de 5 (cinco) anos, sucessivamente renovável por igual período de tempo.~~
+
+**§ 1º** O prazo de validade de concessão, bem como suas renovações, serão fixados através de Lei. [(Redação dada pela Emenda à Lei Orgânica nº 23, de 2000)](/legislatura-1997-2000/2000/lei-organica/ELO-00023-2000.md)
 
 **§ 2º** As concessões de que trata este artigo terão que ter aprovação da maioria absoluta dos Vereadores.
 
@@ -2790,17 +2884,31 @@ IX - regionalização, inclusive para o ensino profissionalizante, segundo carac
 **Art. 393.** O dever do Município com a educação será efetivado mediante garantia de:
 
 I - ensino público fundamental, obrigatório e gratuito, com o estabelecimento progressivo do turno único;
+
 II - oferta obrigatória do ensino fundamental e gratuito aos que a eles não tiverem acesso na idade própria;
+
 III - progressiva extensão da obrigatoriedade e gratuidade do ensino médio;
+
 IV - atendimento educacional especializado aos portadores de deficiência e ensino profissionalizante na rede regular de ensino, quando necessário, por professores da educação especial;
+
 V - atendimento especializado aos alunos superdotados, a ser implantado por legislação específica;
+
 VI - atendimento obrigatório e gratuito em creches e pré-escolas a crianças de zero a seis anos de idade, mediante atendimento de suas necessidades biopsicosociais, adequado aos seus diferentes níveis de desenvolvimento, com preferência à população de baixa renda;
+
 VII - acesso ao ensino obrigatório e gratuito, que constitui direito público subjetivo;
+
 VIII - oferta de ensino noturno regular, adequado às condições do educando;
+
 IX - atendimento ao educando, no ensino fundamental, através de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;
+
 X - liberdade de organização dos alunos, professores, funcionários e pais de alunos, sendo facultada a utilização das instalações do estabelecimento do ensino para as atividades das associações;
+
 XI - submissão, quando necessário, dos alunos matriculados na rede regular de ensino a testes de acuidade visual e auditiva, a fim de detectar possíveis desvios de desenvolvimento;
-XII - eleições diretas, na forma da lei, para direção das instituições de ensino mantida pelo Poder Público, com a participação da comunidade escolar, a partir da quinta série;
+
+~~XII - eleições diretas, na forma da lei, para direção das instituições de ensino mantida pelo Poder Público, com a participação da comunidade escolar, a partir da quinta série;~~
+
+XII - Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 28, de 2004)](/legislatura-2001-2004/2004/lei-organica/ELO-00028-2004.md)
+
 XIII - assistência à saúde no que respeita ao tratamento médico-odontológico e atendimento aos portadores de problemas psicológicos ou deste decorrentes.
 
 **§ 1º** A não oferta, ou a oferta insuficiente do ensino obrigatório e gratuito, pelo Poder Público, importará responsabilidade da autoridade competente, nos termos da lei.
