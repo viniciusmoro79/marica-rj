@@ -15,9 +15,11 @@ Os arquivos seguem o formato:
 
 CCC-NNNNN-AAAA.md
 
-– CCC = código do tipo normativo
-– NNNNN = número da norma (com cinco dígitos, preenchidos com zeros à esquerda)
-– AAAA = ano de publicação
+* CCC = código do tipo normativo
+
+* NNNNN = número da norma (com cinco dígitos, preenchidos com zeros à esquerda)
+
+* AAAA = ano de publicação
 
 **Exemplo:**
 
