@@ -1,5 +1,5 @@
 site_name: Documentação Maricá
-docs_dir: .
+docs_dir: legislatura
 theme:
   name: material
 nav:
