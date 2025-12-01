@@ -19,28 +19,26 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  palette:
-    - scheme: default
-      primary: be1622       # vermelho para menu
-      accent: 04b2e8        # azul para links
-      background: eeedee    # fundo principal
-      surface: fcea1d       # cards e elementos secundários
-      text: 009d45          # texto principal
-      toggle:
-        icon: material/weather-night
-        name: Mudar para o modo escuro
-    - scheme: slate          # dark mode
-      primary: be1622
-      accent: 74e4fb
-      background: 000000    # fundo escuro
-      surface: 83bd4c
-      text: eeedee
-      toggle:
-        icon: material/weather-sunny
-        name: Mudar para o modo claro
+palette:
+  - scheme: default
+    primary: be1622       # vermelho do menu
+    accent: 04b2e8        # azul para destaques
+    toggle:
+      icon: material/weather-night
+      name: Mudar para o modo escuro
+
+  - scheme: slate
+    primary: be1622
+    accent: 74e4fb
+    toggle:
+      icon: material/weather-sunny
+      name: Mudar para o modo claro
 
 nav:
   - Início: index.md
+  - Sobre: sobre.md
+  - Como pesquisar: como-pesquisar.md
+  - Fale conosco: fale-conosco.md
 
 markdown_extensions:
   - admonition
